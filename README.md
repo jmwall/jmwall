@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jmwall
 - 👀 I’m interested in stuff
-- 🌱 I’m currently learning ASP.NET Core + React
+- 🌱 I’m currently learning stuff
 
 
 <!---
